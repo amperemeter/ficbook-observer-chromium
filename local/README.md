@@ -30,10 +30,10 @@
 
 ## Использование парсера
 
-1. Замените строки в файле `index.js` в корне проекта на:
+1. Создайте в корне проекта файл `index.js` и пропишите в нем строки:
 
     ```
-    const observe = require("./local");
+    const observe = require("ficbook-feeds-observer/local");
     const data = require('./data/fanfics');
     observe(data);
     ```
