@@ -1,4 +1,3 @@
-const needle = require("needle");
 const assert = require("assert");
 const MongoClient = require("mongodb").MongoClient;
 const { readCollection } = require("./tools/read-collection");

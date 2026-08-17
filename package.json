@@ -1,6 +1,6 @@
 {
-  "name": "ficbook-feeds-observer",
-  "version": "1.0.7",
+  "name": "ficbook-observer-chromium",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "author": "amperemeter",
@@ -16,14 +16,13 @@
     "cheerio": "^1.0.0-rc.3",
     "file-system": "^2.2.2",
     "mongodb": "4.1",
-    "needle": "^2.9.1",
     "playwright": "^1.62.1",
     "playwright-extra": "^4.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amperemeter/ficbook-feeds-observer.git"
+    "url": "git+https://github.com/amperemeter/ficbook-observer-chromium.git"
   },
   "keywords": [
     "ficbook",
