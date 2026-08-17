@@ -1,4 +1,4 @@
-# Ficbook Feeds Observer (Chromium) with local
+# Ficbook Feeds Observer (Chromium) with local file
 
 Исправленный парсер для сайта <a href="https://ficbook.net" target="_blank">ficbook.net</a>, отслеживающий появление новых фанфиков в выбранных фандомах,
 пэйрингах или жанрах.
