@@ -18,7 +18,7 @@
 2. Установите парсер, введя команду (находясь в корне проекта):
 
     ```
-    npm install ficbook-observer-chromium
+    npm i ficbook-observer-chromium
     ```
 
 ### Создание базы данных
