@@ -1,0 +1,35 @@
+{
+  "name": "ficbook-feeds-observer",
+  "version": "1.0.7",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "amperemeter",
+  "description": "Parser of new jobs at Ficbook.net",
+  "scripts": {
+    "start": "node index.js",
+    "start2": "node index.js",
+    "watch": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "assert": "^2.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "file-system": "^2.2.2",
+    "mongodb": "4.1",
+    "needle": "^2.9.1",
+    "playwright": "^1.62.1",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amperemeter/ficbook-feeds-observer.git"
+  },
+  "keywords": [
+    "ficbook",
+    "ficbook parser",
+    "ficbook feeds",
+    "фикбук",
+    "книга фанфиков"
+  ]
+}

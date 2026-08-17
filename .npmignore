@@ -1,0 +1,10 @@
+# Игнорировать каталог node_modules 
+/node_modules
+
+# Игнорирование логов 
+logs 
+*.log 
+
+# Игнорирование файлов 
+package-lock.json
+/.idea

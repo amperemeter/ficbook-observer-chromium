@@ -1,0 +1,13 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Игнорировать каталог
+/node_modules
+/data
+
+# Игнорирование логов 
+logs 
+*.log 
+
+# Игнорирование файлов 
+package-lock.json
+/.idea
