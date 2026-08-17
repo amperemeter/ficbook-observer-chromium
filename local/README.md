@@ -33,7 +33,7 @@
 1. Замените строки в файле `index.js` в корне проекта на:
 
     ```
-    const observe = require("./local/observer");
+    const observe = require("./local");
     const data = require('./data/fanfics');
     observe(data);
     ```
