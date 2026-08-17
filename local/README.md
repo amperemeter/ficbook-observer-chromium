@@ -33,7 +33,7 @@
 1. Создайте в корне проекта файл `index.js` и пропишите в нем строки:
 
     ```
-    const observe = require("ficbook-feeds-observer/local");
+    const observe = require("ficbook-observer-chromium/local");
     const data = require('./data/fanfics');
     observe(data);
     ```

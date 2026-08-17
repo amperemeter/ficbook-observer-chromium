@@ -51,7 +51,7 @@
 1. Создайте в корне проекта файл `index.js` и пропишите в нем строки, заменив `fanficsdb`, `fanfics` на ваши значения:
 
     ```
-    const observe = require("ficbook-feeds-observer");
+    const observe = require("ficbook-observer-chromium");
     const data = require('./data/uri');
     observe(data, "fanficsdb", "fanfics");
     ```
